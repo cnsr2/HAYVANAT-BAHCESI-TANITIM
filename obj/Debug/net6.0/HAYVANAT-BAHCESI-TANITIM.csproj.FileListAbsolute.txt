@@ -1,0 +1,15 @@
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\bin\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.exe
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\bin\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.deps.json
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\bin\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.runtimeconfig.json
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\bin\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.dll
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\bin\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.pdb
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.csproj.AssemblyReference.cache
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.AssemblyInfoInputs.cache
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.AssemblyInfo.cs
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.csproj.CoreCompileInputs.cache
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.dll
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\refint\HAYVANAT-BAHCESI-TANITIM.dll
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.pdb
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\HAYVANAT-BAHCESI-TANITIM.genruntimeconfig.cache
+C:\Users\gamer\Desktop\HAYVANAT-BAHCESI-TANITIM\obj\Debug\net6.0\ref\HAYVANAT-BAHCESI-TANITIM.dll
